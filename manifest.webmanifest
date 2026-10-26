@@ -1,0 +1,19 @@
+{
+  "name": "UPSC Beast Mode",
+  "short_name": "Beast Mode",
+  "description": "Personal UPSC habit tracker, study timer and progress dashboard.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#09111d",
+  "theme_color": "#101827",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
